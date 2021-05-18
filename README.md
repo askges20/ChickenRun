@@ -7,6 +7,8 @@
 
 <hr>
 <h3>게임 화면</h3>
+<h4>✔플레이 영상</h4>
+https://user-images.githubusercontent.com/75527311/118665632-699f0380-b82d-11eb-9628-51434c8ef29a.mp4
 <h4>✔장애물 구간</h4>
 <div align="center">
   <img width="700" src="https://user-images.githubusercontent.com/75527311/118624194-e5845600-b803-11eb-8dd5-02e0ea7eb6e5.PNG">
